@@ -1,0 +1,19 @@
+#gameContainer {
+    height: 600px;
+    width: 600px;
+    border: black solid 5px;
+    background-color:#fbebcf;
+    margin: auto;
+    position: relative;
+}
+
+#player, #enemy1, #enemy2, #enemy3, #enemy4, #enemy5 {
+    height: 60px;
+    width: 60px;
+}
+
+
+h3{
+margin-left: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
